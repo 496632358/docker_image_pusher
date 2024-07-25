@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.0
+apache/rocketmq:5.3
